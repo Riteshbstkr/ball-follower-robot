@@ -4,8 +4,7 @@ An autonomous robot that detects and follows a tennis ball using a custom-traine
 YOLO26n object detection model, running on a Raspberry Pi 4 with a Pi Camera Module.
 
 ## Demo
-
-*(Add a photo or short video of your robot here once mounted)*
+<img width="1170" height="853" alt="image" src="https://github.com/user-attachments/assets/42a97cf7-93b3-4683-a4a1-1e35c791692d" />
 
 ## Hardware Used
 
